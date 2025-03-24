@@ -16,13 +16,13 @@ document.addEventListener('DOMContentLoaded', function() {
             
             <div class="project-card">
                 <h4 class="project-title"><i class="fa-solid fa-industry"></i> Wood Pellet Mill System Implementation</h4>
-                <p class="project-description">Led the comprehensive installation of a large-scale wood pellet mill system, managing the entire process from waste stream management to final packaging.</p>
+                <p class="project-description">Directed the end-to-end installation of a large-scale wood pellet mill system, overseeing every phase from waste stream management to final packaging.</p>
                 <ul class="project-features">
-                    <li><i class="fa-solid fa-check"></i> Procured materials and coordinated multi-vendor equipment installation</li>
-                    <li><i class="fa-solid fa-check"></i> Oversaw installation of bins, augers, blowers, and hammermills</li>
-                    <li><i class="fa-solid fa-check"></i> Implemented dust collection systems for environmental compliance</li>
-                    <li><i class="fa-solid fa-check"></i> Integrated pellet mills, shaker screeners, and form-fill-seal machines</li>
-                    <li><i class="fa-solid fa-check"></i> Deployed and programmed robotic bagging system for efficient operations</li>
+                    <li><i class="fa-solid fa-check"></i> Sourced materials and coordinated multi-vendor equipment installations</li>
+                    <li><i class="fa-solid fa-check"></i> Supervised setup of bins, augers, blowers, and hammermills</li>
+                    <li><i class="fa-solid fa-check"></i> Established dust collection systems to ensure environmental compliance</li>
+                    <li><i class="fa-solid fa-check"></i> Integrated pellet mills, shaker screeners, and form-fill-seal machines for seamless production</li>
+                    <li><i class="fa-solid fa-check"></i> Designed framework for a future robotic palletizer to enhance operational efficiency</li>
                 </ul>
             </div>
             
@@ -33,20 +33,20 @@ document.addEventListener('DOMContentLoaded', function() {
                     <li>Created custom irrigation solutions based on facility layout and plant needs</li>
                     <li>Implemented water conservation technologies and filtration systems</li>
                     <li>Integrated environmental controls with irrigation timing</li>
-                    <li>Designed multi-zone systems with independent nutrient delivery capabilities</li>
-                    <li>Installed monitoring systems for real-time analytics and issue detection</li>
+                    <li>Designed multi-zone systems with automated timing and manual control capabilities</li>
+                    <li>Installed intuitive </li>
                 </ul>
             </div>
             
             <div class="project-card">
                 <h4 class="project-title">Nursery & Genetics Program Buildout</h4>
-                <p class="project-description">Built a complete cannabis nursery and genetics program from scratch, including facility design, equipment selection, and team implementation.</p>
+                <p class="project-description">Developed a comprehensive cannabis nursery and genetics program from the ground up, encompassing facility design, equipment selection, and team coordination.</p>
                 <ul class="project-features">
-                    <li>Designed dedicated breeding and pheno-hunting spaces</li>
-                    <li>Created optimized environments for seed production and cloning</li>
-                    <li>Implemented testing protocols for phenotype selection</li>
-                    <li>Built sterile workspaces for tissue culture and micropropagation</li>
-                    <li>Trained staff on genetics maintenance and breeding techniques</li>
+                    <li>Designed a dedicated nursery area for optimal plant growth</li>
+                    <li>Created tailored environments for cloning and vegetative cycles</li>
+                    <li>Implemented efficient testing protocols for phenotype selection with minimal labor</li>
+                    <li>Constructed ergonomic workspaces for cloning operations</li>
+                    <li>Trained staff in genetics maintenance and pheno-hunting techniques</li>
                 </ul>
             </div>
             
