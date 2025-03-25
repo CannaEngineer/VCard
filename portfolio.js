@@ -119,10 +119,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     <i class="fa-solid fa-envelope"></i>
                     <span>dan@hudsonhemp.com</span>
                 </div>
-                <div class="contact-reference">
-                    <i class="fa-solid fa-phone"></i>
-                    <span>207-538-5990</span>
-                </div>
             </div>
         `;
         
